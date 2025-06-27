@@ -2,3 +2,15 @@
 - some models 
 
 - complete bulk soon by july 3
+
+ideas:
+	•	Insurance Pricing Model
+	•	Survival Model Simulator
+	•	Policyholder Churn Predictor
+	•	Ruin Probability Calculator
+	•	Term Life Pricing Tool
+	•	Health Claims Analyzer
+	•	Weather-Based Claims Risk
+	•	Investment Strategy Simulator
+	•	Mortality Improvement Visualizer
+	•	Auto Claims Fraud Detector
